@@ -1,3 +1,4 @@
+
 # BMICalculator
 
 This is a Flutter application that calculates Body Mass Index (BMI) based on user input of height, weight and age. The BMI calculation is performed using the formula BMI = weight / height^2 and provides the user with a result of their BMI category (e.g. underweight, normal weight, overweight, or obese) along with a suggested interpretation.
@@ -26,3 +27,4 @@ Dart - Programming language
 
 ##License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
+
